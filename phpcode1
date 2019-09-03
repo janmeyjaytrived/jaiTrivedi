@@ -1,0 +1,9 @@
+<?php
+echo "<h1>ZERO PROG</h1>";
+echo "<h2>ZERO PROG</h2>";
+echo "<h3>ZERO PROG</h3>";
+echo "<h4>ZERO PROG</h4>";
+echo "<h5>ZERO PROG</h5>";
+echo "<h6>ZERO PROG</h6>";
+echo "<h7>ZERO PROG</h7>";
+?>
